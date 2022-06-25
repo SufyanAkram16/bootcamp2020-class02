@@ -26,8 +26,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: setting Node.js environment
         uses: actions/setup-node@v2-beta
-          with:
-            version: 12
+        with:
+          version: 12
             
             
 
